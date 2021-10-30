@@ -16,7 +16,7 @@ int main()
 {
     
     cout << "a = " << A::a << endl;
-    cout <<<<"b = " <<A::b << endl;
+    cout <<"b = " <<A::b << endl;
     
     return 0;
 }
